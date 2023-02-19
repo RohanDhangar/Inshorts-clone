@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import "./App.css";
 import NavInshort from "./Components/NavInshort";
 import NewsContent from "./NewsComponents/NewsContent";
-import Footer from "./Components/Footer/Footer";
+// import Footer from "./Components/Footer/Footer";
 
 function App() {
   const [category, setcategory] = useState("general");
