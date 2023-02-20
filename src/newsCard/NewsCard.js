@@ -1,5 +1,5 @@
 import React from "react";
-// import "./NewsCard.css";
+import "./NewsCard.css";
 
 const NewsCard = ({ NewsItem }) => {
   console.log(NewsItem);
